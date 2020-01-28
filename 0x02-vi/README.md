@@ -1,0 +1,1 @@
+#this proyect its about learning some basics about vi text editor
