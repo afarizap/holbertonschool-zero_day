@@ -1,1 +1,2 @@
-first git
+first git 
+readme update from github
